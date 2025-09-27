@@ -1,1 +1,20 @@
+# Write-up: NT-SAY
 
+## 📋 Metadata
+- **Platform:** crackmes.one
+- **Difficulty:** 3/10
+- **Category:** Reverse Engineering
+- **Tools Used:** Ghidra, x64dbg, GDB
+- **Time Spent:** 3 hours
+- **Solver:** NT-SAY
+
+## 🎯 Challenge Description
+Need search key and get flag, the key was generated and needed to be used GDB fordynamic reverse (I found this out later after analizing the code)
+
+## 🔍 Initial Analysis
+1. Open Ghidra browser
+2. Search main function
+3. Checked the crack and saw what it does.
+### Solution
+
+## final flag
